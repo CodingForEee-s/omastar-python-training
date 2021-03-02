@@ -1,3 +1,4 @@
+#omastar
 Training day 1.py
 
 print ("Hi, you are a astronount. You have been sent to space.")
@@ -14,3 +15,18 @@ set mode died
 if ans ("no")
 print ("Your ship blew up instantly and you died.")
 set mode died
+
+ #KSKS 
+#Training day 1.py
+
+print ("Hi, you are a astronount. You have been sent to space.")
+
+print (10*"HI")
+
+ans = input ("You have a call, would you like to answer?")
+
+if ans == 'yes':
+    print ("You have a misson clean out the space trash to let our ship to pass")
+    print ("you went to clean out the trash, but you died because you forgot to wear your space suit.")
+if ans == 'no':
+    print ("Your ship blew up instantly and you died.")
