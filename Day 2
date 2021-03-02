@@ -1,0 +1,3 @@
+import winsound
+
+winsound.PlaySound('Pokemon Theme Song (30 seconds) (online-audio-converter.com).wav', winsound.SND_FILENAME)
